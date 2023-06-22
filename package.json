@@ -1,6 +1,7 @@
 {
   "name": "safe-core-sdk",
   "private": true,
+  "version": "1.0.0",
   "scripts": {
     "clean": "lerna clean",
     "unbuild": "lerna run unbuild",
